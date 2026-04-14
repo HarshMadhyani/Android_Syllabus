@@ -33,3 +33,24 @@ This project demonstrates the fulfillment of the course objectives, including ac
 * **Animations:** Frame-by-Frame and Tween animations.
 * **System Tools:** Working with the Telephony API and sending SMS.
 * **Hardware Integration:** Using the Device Camera and working with the Alarm manager.
+
+### **Unit 4: Data Persistence & Storage**
+* **Storage Mechanisms:** Internal Storage, External Storage, and Shared Preferences.
+* **Database Management:** Managing data using SQLite and building a Doctor Detail database (doc_id, name, city, etc.).
+* **Data Sharing:** Sharing data between applications using Content Providers and ContentResolvers.
+
+### **Unit 5: Location & Web Services**
+* **Geo-Services:** Using Location Based Services and working with Google Maps.
+* **Sensor API:** Implementation of SensorManager, SensorEvent, and SensorEventListener.
+* **Networking:** Introduction to JSON Parsing and App Monetization.
+
+---
+
+## 📖 Learning Resources
+* **Textbook:** Professional Android 4 Application Development by Reto Meier.
+* **Reference:** Beginning Android Application Development by Wei-Meng Lee.
+* **Web:** developer.android.com and tutorialspoint.com.
+
+---
+
+
